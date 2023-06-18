@@ -56,15 +56,15 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *GURU*
+  *luffy*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/_not.luffy?igshid=MzNlNGNkZWQ4Mg==
 ▢ GitHub :
-  • https://github.com/Guru322
+  • https://instagram.com/_not.luffy?igshid=MzNlNGNkZWQ4Mg==
 ▢ Telegram : 
-  • t.me/i_want_to_be_isekaied (GURU) 
+  • https://instagram.com/_not.luffy?igshid=MzNlNGNkZWQ4Mg== (luffy) 
 ▢ YouTube : 
-  • https://youtube.com/@Asliguru
+  • https://instagram.com/_not.luffy?igshid=MzNlNGNkZWQ4Mg==
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
